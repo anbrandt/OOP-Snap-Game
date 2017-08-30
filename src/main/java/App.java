@@ -16,7 +16,7 @@ public class App {
 			Deck deck = new Deck();
 		List<Card> cards = deck.initializeTheDeck();
 
-		cards.forEach(c -> System.out.println(c.toString()));
+//		cards.forEach(c -> System.out.println(c.toString()));
 
 
 
